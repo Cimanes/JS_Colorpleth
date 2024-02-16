@@ -100,7 +100,6 @@ function draw(counties, marks) {
             match[0]['state'] + ': ' +
             match[0].bachelorsOrHigher + '%' :
             0;
-
         }).
         attr('data-education', function () {// Assign 'data-education' property
           const match = marks.filter(obj => obj.fips === d.id);
