@@ -17,7 +17,7 @@ body {
   align-items: center;
 }
 
-#legend{
+#legend {
   padding: 1%;
   background-color: #ddd;
   border-radius: 4rem;
@@ -34,7 +34,7 @@ body {
 .stateBorder {
   fill: none;
   stroke: #fff;
-/*   stroke-linejoin: round; */
+  /*   stroke-linejoin: round; */
   stroke-width: 1;
 }
 
